@@ -1,2 +1,2 @@
 # Machine-Learning
-Prediction of City Type using Machine Learning Regression Model
+Prediction of Intrenational Educational costs using Machine Learning Regression Model
